@@ -26,7 +26,7 @@ Microsoft Intune helps you create and deploy your Windows Information Protection
 After you’ve set up Intune for your organization, you must create a WIP-specific policy.
 
 **To add a WIP policy**
-1.  Open the Microsoft Intune mobile application management console, click **All settings**, and then click **App policy**.
+1.  Open the Intune App Protection console on Azure and then click **App policy**.
 
     ![Microsoft Intune management console: App policy link](images/wip-azure-portal-start.png)
 
